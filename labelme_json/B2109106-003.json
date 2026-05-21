@@ -1,0 +1,54 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plate",
+      "points": [
+        [
+          817.3055555555557,
+          634.291666666667
+        ],
+        [
+          1266.3333333333335,
+          256.16666666666674
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "circle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "paper",
+      "points": [
+        [
+          427.27184466019423,
+          459.8883495145632
+        ],
+        [
+          413.6796116504855,
+          800.6650485436894
+        ],
+        [
+          655.4271844660194,
+          815.2281553398059
+        ],
+        [
+          671.9320388349515,
+          476.3932038834952
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\raw_images\\B2109106-003.jpg",
+  "imageData": null,
+  "imageHeight": 1279,
+  "imageWidth": 1706
+}
